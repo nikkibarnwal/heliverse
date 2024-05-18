@@ -1,0 +1,11 @@
+/* styles.css */
+.foggy {
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.3),
+    rgba(255, 255, 255, 0)
+  );
+  border-radius: 50%;
+  filter: blur(30px);
+  pointer-events: none;
+}

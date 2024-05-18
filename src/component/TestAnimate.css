@@ -1,0 +1,12 @@
+main {
+  height: 100vh;
+  width: 100%;
+  background-color: #111;
+  padding: 20px;
+}
+.box {
+  height: 600px;
+  width: 600px;
+  background-color: crimson;
+  border-radius: 20px;
+}

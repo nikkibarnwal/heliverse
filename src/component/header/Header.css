@@ -1,0 +1,17 @@
+.image-container {
+  padding: 20px 0px 0px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background-color: white;
+}
+
+.side-by-side-image {
+  width: 220px;
+  height: 60px;
+}
+
+button {
+  background-color: red;
+}
