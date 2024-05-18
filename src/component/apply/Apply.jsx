@@ -10,7 +10,7 @@ const Apply = () => {
         </div>
       </div>
       <div className="magic grid grid-cols-1 md:grid-cols-2 py-10 md:py-20 gap-4 px-4">
-        <div className="w-full applyOnSection mb-16 md:mb-0 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div className="w-full applyOnSection mb-16 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
           <div className="flex-1 flex flex-col justify-between ml-4">
             <div className="flex-1 text-white p-4 mb-4 rounded-lg">
               <h1 className="text-2xl md:text-3xl">Apply On Section</h1>
@@ -24,7 +24,7 @@ const Apply = () => {
             </div>
           </div>
         </div>
-        <div className="w-full applyOnSection mt-16 md:mt-0 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div className="w-full applyOnSection mt-16  border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
           <div className="flex-1 flex flex-col justify-between ml-4">
             <div className="flex-1 text-white p-4 mb-4 rounded-lg">
               <h1 className="text-2xl md:text-3xl">Apply On Page</h1>
